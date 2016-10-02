@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For OneWire
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+loadCell	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init_ADC KEYWORD2
+getRawValue KEYWORD2
+tare KEYWORD2
+setFloatMultiplier KEYWORD2
+getFloatValue KEYWORD2
+setGain KEYWORD2
+setOffset KEYWORD2
+calcAverages KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
