@@ -19,7 +19,7 @@ setFloatMultiplier KEYWORD2
 getFloatValue KEYWORD2
 setGain KEYWORD2
 setOffset KEYWORD2
-calcAverages KEYWORD2
+calcAverages KEYWORD2 
 
 #######################################
 # Instances (KEYWORD2)
